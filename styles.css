@@ -3,14 +3,14 @@
     font-family: sans-serif;
     border: border-box;
 }
-
+/* Either edit the navbar as desired or delete it and build it from the scratch */
 .navbar{
     height: 60px;
     background-color: #0f1111;
     color: whitesmoke;
     display: flex;
 }
-
+/* Page-2 is in progress and will be added later on */
 .nav-logo{
     height: 50px;
     width: 100px;
