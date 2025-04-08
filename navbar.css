@@ -4,6 +4,7 @@
   border: border-box
 }
 
+/* Navbar-body/structure */
 .navbar {
   height: 60px;
   background-color: #0f1111;
@@ -12,11 +13,14 @@
   justify-content: space-evenly;
 }
 
+
+/* Nav-Logo--adjust as required */
 .nav-logo {
   height: 50px;
   width: 100px;
 }
 
+/* Actual logo  */
 .logo {
   background-imgage: url("");
   background-size: cover;
